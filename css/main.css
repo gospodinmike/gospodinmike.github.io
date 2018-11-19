@@ -11,16 +11,22 @@ body {
  font-size: 3em;
 }
 
+.top h2 {
+ color: #99ff99;
+ background-color: #000000
+}
+
 .bottom {
  height: 50vh;
- color: #b30000;
- background-color: #ffffff
  display: flex;
  justify-content: center; 
  align-items: center;
  flex-direction: column;
  font-size: 3em;
 }
+
+ color: #b30000;
+ background-color: #ffffff
 
 h2 {
  margin: 0;
