@@ -4,16 +4,13 @@ body {
 
 .top {
  height: 50vh;
+ color: #b30000;
+ background-color: #ffffff
  display: flex;
  justify-content: center; 
  align-items: center;
  font-family: 'VT323', monospace;
  font-size: 3em;
-}
-
-.top h2 {
- color: #99ff99;
- background-color: #000000
 }
 
 .bottom {
