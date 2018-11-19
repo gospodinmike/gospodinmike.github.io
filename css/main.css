@@ -1,16 +1,10 @@
 html, header {
+ padding:0;
+ margin:0;
  height: 100%; 
 }
 
-
 .front {
- min-height: 50%;
- width: 100%;
- text-align: center;
- verticle-align: middle;
-}
-
-.front{
  min-height: 50%;
  width: 100%;
  text-align: center;
