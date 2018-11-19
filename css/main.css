@@ -4,8 +4,8 @@ body {
 
 .top {
  height: 50vh;
- color: #b3ffd9;
- background-color: black;
+ color: #99ff99;
+ background-color: #000000
  display: flex;
  justify-content: center; 
  align-items: center;
@@ -15,8 +15,8 @@ body {
 
 .bottom {
  height: 50vh;
- color: red;
- background-color: white;
+ color: #b30000;
+ background-color: #ffffff
  display: flex;
  justify-content: center; 
  align-items: center;
