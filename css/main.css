@@ -2,9 +2,16 @@ body {
  margin: 0;
 }
 
-.front {
+.top {
  height: 50vh;
  background-color: coral;
+ display: flex;
+ justify-content: center; 
+ align-items: center;
+}
+
+.bottom {
+ height: 50vh;
  display: flex;
  justify-content: center; 
  align-items: center;
