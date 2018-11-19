@@ -1,15 +1,16 @@
-html {
+html, header {
  height: 100%; 
 }
 
-.top {
+
+.front {
  min-height: 50%;
  width: 100%;
  text-align: center;
  verticle-align: middle;
 }
 
-.bottom {
+.front{
  min-height: 50%;
  width: 100%;
  text-align: center;
