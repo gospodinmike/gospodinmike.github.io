@@ -4,8 +4,6 @@ body {
 
 .top {
  height: 50vh;
- color: #99ff99;
- background-color: #000000
  display: flex;
  justify-content: center; 
  align-items: center;
