@@ -5,8 +5,8 @@ body {
 .top {
  height: 50vh;
  display: flex;
- color: white
- background-color: black
+ color: #ccffcc;
+ background-color: #000000;
  justify-content: center; 
  align-items: center;
  font-family: 'VT323', monospace;
@@ -16,7 +16,7 @@ body {
 .bottom {
  height: 50vh;
  color: #b30000;
- background-color: #ffffff
+ background-color: #ffffff;
  display: flex;
  justify-content: center; 
  align-items: center;
