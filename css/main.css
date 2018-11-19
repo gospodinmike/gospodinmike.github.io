@@ -1,9 +1,13 @@
 .top {
  height: 50%;
  width: 100%;
+ text-align: center;
+ verticle-align: middle;
 }
 
 .bottom {
  height: 50%;
  width: 100%;
+ text-align: center;
+ verticle-align: middle;
 }
