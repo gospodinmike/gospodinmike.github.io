@@ -1,3 +1,7 @@
+body {
+ margin: 0;
+}
+
 .front {
  border: 0;
  padding:0;
