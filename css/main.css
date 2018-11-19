@@ -4,7 +4,8 @@ body {
 
 .top {
  height: 50vh;
- background-color: coral;
+ color: white;
+ background-color: black;
  display: flex;
  justify-content: center; 
  align-items: center;
@@ -15,6 +16,8 @@ body {
 .bottom {
  margin:0;
  height: 50vh;
+ color: red;
+ background-color: white;
  display: flex;
  justify-content: center; 
  align-items: center;
