@@ -1,3 +1,8 @@
+html, header, body {
+ padding:0;
+ margin: 0;
+}
+
 
 .front {
  border: 0;
