@@ -11,10 +11,7 @@ html, header, body {
  height: 50vh;
  width: 100%;
  background-color: coral;
-}
-
-h2 {
- display: flex;
+  display: flex;
  justify-content: center; 
  align-items: center;
 }
